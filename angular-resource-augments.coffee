@@ -48,4 +48,4 @@ class ResourceAugments
 
         _.each OPERATIONS, (op) -> trackMaster op
 
-angular.module('icrResourceAugments', []).service('resourceAugments', ResourceAugments)
+angular.module('angularResourceAugments', []).service('resourceAugments', ResourceAugments)

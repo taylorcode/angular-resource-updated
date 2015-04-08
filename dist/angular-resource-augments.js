@@ -70,4 +70,4 @@ ResourceAugments = (function() {
 
 })();
 
-angular.module('icrResourceAugments', []).service('resourceAugments', ResourceAugments);
+angular.module('angularResourceAugments', []).service('resourceAugments', ResourceAugments);

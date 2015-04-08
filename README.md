@@ -2,7 +2,7 @@
 
 Augments instances of $resource with an $updateModified method that calculates the changes to a model
 
-**This works, but is not yet staged for an early release**
+**This works, but is not yet staged for an early release.**
 
 ### Basic Setup
 
