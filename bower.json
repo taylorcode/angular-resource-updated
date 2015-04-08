@@ -1,0 +1,24 @@
+{
+  "name": "angular-resource-updated",
+  "version": "0.0.0",
+  "homepage": "https://github.com/taylorcode/angular-resource-updated",
+  "authors": [
+    "Taylor McIntyre <taylorm@icracked.com>"
+  ],
+  "description": "Augments instances of $resource with an $updateModified method that calculates the changes to a model",
+  "main": "dist/angular-resource-augments.js",
+  "keywords": [
+    "angular",
+    "$resource",
+    "update",
+    "model"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
